@@ -1,9 +1,9 @@
-import Todo from "./Todo";
+import PwdGen2 from "./PwdGen2";
 
 const App = () => {
   return (
     <div>
-      <Todo/>
+      <PwdGen2/>
     </div>
   );
 };
