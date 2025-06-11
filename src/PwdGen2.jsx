@@ -40,7 +40,7 @@ const PwdGen2 = () => {
   }
 
   return (
-    <div className="bg-black text-white flex justify-center">
+    <div className="bg-black text-white flex justify-center h-screen">
       <div className="mt-12 h-fit w-fit p-4 rounded-md space-y-4" style={{backgroundColor: "olive"}}>
         <div className="flex gap-2 justify-center items-center">
           <div>Password:</div>
